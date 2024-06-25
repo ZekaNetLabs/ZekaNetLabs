@@ -1,13 +1,7 @@
 ### Hepinize Selamlar 👋
 
 
-**ZekaNetLabs** Bir Yapay zeka geliştirme ekbidir
+**ZekaNetLabs** ekibi yapay zekadan tutun programlama diline kadar yaptığı projeler ile toplumu geliştirmeyi amaçlaran bir yazılım ekibidir.
 
-- 🔭 Şu anda **HandMate** üzerinde çalışıyoruz
-# - 👯 Ekip
-- [Kurucu](https://github.com/yoskatr4)
-
-- [Kodcu](https://github.com/yusagulgor)
-
-- [Web Kodcu](https://github.com/tosunpasha6)
+https://zekanetlabs.free.nf
 
